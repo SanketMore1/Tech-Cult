@@ -16,8 +16,12 @@ Here is the list of active SecAlm projects
 ## Resources to learn
 | Name  | Links |Domain |
 | ------------- | ------------- |------------- |
-|FreeCodeCamp | https://www.freecodecamp.org  |Best for Web Development|
+| FreeCodeCamp | https://www.freecodecamp.org  |Best for Web Development|
 | FreeCodeCamp - Youtube  |   https://www.youtube.com/c/Freecodecamp/videos |Web Development, Data Science, Cyber security, Game Development, Programming langugaes|
+| DataCamp -   | https://www.datacamp.com/     | Learn by doing hands-on practice of anything related to Data Science |
+| Krish Naik   | Youtube  |   https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig  | Python, ML , Statistics , Model building .. |
+|Kaggle        | Website  |   https://www.kaggle.com/datasets       |  Can download Datasets , learn new data science concepts , Community of Data Science Students and professionals.
+
 
 ## Innovative Ideas Contributors💖
 - Names will be added as according to contributions for ideas
